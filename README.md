@@ -2,6 +2,10 @@
 
 #Classification Project using Kaggle dataset
 
-#Code - 3 Jupyter Notebooks <p>
-#PDFs - Write-up of Project and Slides for Presentation <p>
-#Movie -  QT movie for Presentation
+Table of Contents<p>
+
+<ol>
+<li>Code - 3 Jupyter Notebooks </li>
+<li>PDFs - Write-up of Project and Slides for Presentation </li>
+<li>Movie -  QT movie for Presentation</li>
+</ol>

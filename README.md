@@ -1,8 +1,8 @@
 # classification
 
-#Classification Project using Kaggle dataset
+<hl>Classification Project using Kaggle dataset</h1>
 
-Table of Contents<p>
+Table of Contents:<p>
 
 <ol>
 <li>Code - 3 Jupyter Notebooks </li>
